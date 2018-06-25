@@ -1,3 +1,5 @@
+![img1](https://ws1.sinaimg.cn/large/006tKfTcly1fsn7b7sbybj30hu0vsmz7.jpg "Screenshoot 1")
+![img2](https://ws3.sinaimg.cn/large/006tKfTcly1fsn7b82c9jj30hu0vwmyl.jpg "Screenshoot 2")
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
