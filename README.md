@@ -1,5 +1,7 @@
-![img1](https://ws1.sinaimg.cn/large/006tKfTcly1fsn7b7sbybj30hu0vsmz7.jpg =250x)
-![img2](https://ws3.sinaimg.cn/large/006tKfTcly1fsn7b82c9jj30hu0vwmyl.jpg =250x)
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fsn7b7sbybj30hu0vsmz7.jpg" alt="screenshot 1" width="200px"/>
+
+<img src="https://ws3.sinaimg.cn/large/006tKfTcly1fsn7b82c9jj30hu0vwmyl.jpg" alt="screenshot 1" width="200px"/>
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
