@@ -1,0 +1,39 @@
+{
+  "name": "leancloud-sample",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.14.0",
+    "jest-expo": "~27.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "android:debug": "REACT_DEBUGGER=\"unset ELECTRON_RUN_AS_NODE && open -g 'rndebugger://set-debugger-loc?port=19001' || \" npm run android",
+    "ios": "react-native-scripts ios",
+    "ios:debug": "REACT_DEBUGGER=\"unset ELECTRON_RUN_AS_NODE && open -g 'rndebugger://set-debugger-loc?port=19001' || \" npm run ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
+    "apollo-cache-inmemory": "^1.2.2",
+    "apollo-client": "^2.3.2",
+    "apollo-link-rest": "^0.3.0",
+    "expo": "^27.0.1",
+    "leancloud-storage": "^3.7.0",
+    "native-base": "^2.4.5",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "react-native-extended-stylesheet": "^0.8.1",
+    "react-native-root-toast": "^3.0.1",
+    "react-native-ui-kitten": "^3.0.1",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "^2.0.4"
+  }
+}
